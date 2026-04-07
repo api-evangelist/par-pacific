@@ -1,7 +1,11 @@
 aid: par-pacific
-url: https://raw.githubusercontent.com/api-evangelist/par-pacific/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/par-pacific/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.par-pacific.com
+description: >-
+  Par Pacific Holdings is an independent energy company that owns interests in refining,
+  retail, and logistics businesses, with assets focused on niche markets.
