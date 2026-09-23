@@ -1,7 +1,9 @@
 ---
 title: Par Pacific Holdings - Case Study
 url: https://lemongrasscloud.com/case-studies/par-pacific-sap-on-aws-modernization-case-study/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Par Pacific Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google

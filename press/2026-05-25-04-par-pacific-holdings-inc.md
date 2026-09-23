@@ -1,7 +1,9 @@
 ---
 title: Par Pacific Holdings Inc
 url: https://www.reuters.com/company/par-pacific-holdings-inc/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Par Pacific Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Par Petroleum Corporation Announces Name Change to ...
 url: https://www.prnewswire.com/news-releases/par-petroleum-corporation-announces-name-change-to-par-pacific-holdings-inc-william-pate-appointed-president-and-chief-executive-officer-300159793.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Par Pacific Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google
